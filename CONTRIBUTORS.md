@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### PD Vega
+- Photo: 
+- Location: Jakarta
+- Bio: 📱 Sofware Engineer . 💻 Open Source Contributor. Artist 🔥
+- Github: https://github.com/pdvega
